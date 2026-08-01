@@ -29,7 +29,7 @@ jobs:
           username: shaghaghi29
           theme: dracula
           output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
