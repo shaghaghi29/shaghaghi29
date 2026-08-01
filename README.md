@@ -12,7 +12,7 @@
 
 </div>
 
-<br>
+---
 
 <img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/snake.svg" width="100%">
 
