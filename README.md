@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:282a36,45:6272a4,70:bd93f9,100:ff79c6&height=260&section=header&text=ARTA&fontSize=88&fontColor=f8f8f2&fontAlignY=32&desc=Python%20Tool%20Builder%20·%20AI%20Developer%20·%20Automation%20Engineer&descSize=17&descAlignY=54&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:282a36,45:6272a4,70:bd93f9,100:ff79c6&height=260&section=header&text=Abolfazl&fontSize=72&fontColor=f8f8f2&fontAlignY=32&desc=Python%20Tool%20Builder%20·%20AI%20Developer%20·%20Automation%20Engineer&descSize=17&descAlignY=54&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&width=680&lines=I+turn+ideas+into+working+software+%F0%9F%9A%80;I+build+Python+tools+people+actually+use+%F0%9F%90%8D;I+design+AI+systems+that+solve+real+problems+%F0%9F%A4%96;I+automate+everything+that+can+be+automated+%E2%9A%A1" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">👋 About Arta</h2>
+<h2 align="center">👋 About Abolfazl</h2>
 
 <table align="center" width="92%">
 <tr><td>
