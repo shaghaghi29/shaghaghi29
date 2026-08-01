@@ -12,6 +12,9 @@
 
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/snake.svg" width="100%">
 
 ---
 
@@ -125,8 +128,8 @@ New AI-backed tools and backend services, in progress. This space updates as thi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaghaghi29&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaghaghi29&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=shaghaghi29&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&include_all_commits=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shaghaghi29&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" height="180"/>
 
 <br><br>
 
@@ -143,7 +146,7 @@ New AI-backed tools and backend services, in progress. This space updates as thi
 <h2 align="center">🏆 Trophy Case</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shaghaghi29&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/trophy.svg" width="100%"/>
 </div>
 
 ---
@@ -183,3 +186,62 @@ Ship. Learn. Repeat.
 <div align="center">
 <sub>⭐ Designed to build. Built to last. ⭐</sub>
 </div>
+
+<!--
+================================================================
+📝 SETUP NOTES — delete this comment block once configured
+
+Both the snake graphic and the trophy case are generated as
+static SVGs by a GitHub Action and committed to an "output"
+branch — this avoids the constant downtime of the public
+vercel.app services (github-profile-trophy and github-readme-stats
+are both frequently overloaded/paused).
+
+Create .github/workflows/profile.yml with:
+
+name: generate profile assets
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shaghaghi29
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: shaghaghi29
+          theme: dracula
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+After the first run, the "output" branch will contain snake.svg
+and trophy.svg, which the image tags above already point to.
+
+If your GitHub username ever changes from "shaghaghi29", replace
+every occurrence of it in this file (image URLs + links + workflow).
+================================================================
+-->
