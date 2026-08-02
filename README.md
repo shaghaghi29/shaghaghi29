@@ -12,7 +12,7 @@
 
 </div>
 
----
+<br>
 
 <img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/snake.svg" width="100%">
 
@@ -143,14 +143,6 @@ New AI-backed tools and backend services, in progress. This space updates as thi
 
 ---
 
-<h2 align="center">🏆 Trophy Case</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/trophy.svg" width="100%"/>
-</div>
-
----
-
 <h2 align="center">💭 Philosophy</h2>
 
 <div align="center">
@@ -172,6 +164,7 @@ Ship. Learn. Repeat.
 <div align="center">
 
 <a href="https://github.com/shaghaghi29"><img src="https://img.shields.io/badge/GitHub-@shaghaghi29-0d1117?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=0d1117"/></a>
+<a href="https://instagram.com/shaghaghipv"><img src="https://img.shields.io/badge/Instagram-@shaghaghipv-0d1117?style=for-the-badge&logo=instagram&logoColor=ff79c6&labelColor=0d1117"/></a>
 
 <br><br>
 
@@ -191,11 +184,9 @@ Ship. Learn. Repeat.
 ================================================================
 📝 SETUP NOTES — delete this comment block once configured
 
-Both the snake graphic and the trophy case are generated as
-static SVGs by a GitHub Action and committed to an "output"
-branch — this avoids the constant downtime of the public
-vercel.app services (github-profile-trophy and github-readme-stats
-are both frequently overloaded/paused).
+The snake graphic is generated as a static SVG by a GitHub Action
+and committed to an "output" branch — this avoids the downtime of
+the public snake-generator services.
 
 Create .github/workflows/profile.yml with:
 
@@ -222,14 +213,6 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: shaghaghi29
-          theme: dracula
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -238,8 +221,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-After the first run, the "output" branch will contain snake.svg
-and trophy.svg, which the image tags above already point to.
+After the first run, the "output" branch will contain snake.svg,
+which the image tag above already points to.
 
 If your GitHub username ever changes from "shaghaghi29", replace
 every occurrence of it in this file (image URLs + links + workflow).
