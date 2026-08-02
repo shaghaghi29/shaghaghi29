@@ -28,8 +28,13 @@ jobs:
         with:
           username: shaghaghi29
           theme: dracula
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}
+
+      - name: Move trophy into dist
+        run: |
+          mkdir -p dist
+          mv trophy.svg dist/trophy.svg
 
       - name: Move trophy into dist
         run: |
