@@ -33,7 +33,8 @@ jobs:
 
       - name: Move trophy into dist
         run: |
-          mkdir -p dist
+          sudo mkdir -p dist
+          sudo chmod -R a+rwX dist
           mv trophy.svg dist/trophy.svg
 
       - name: Move trophy into dist
