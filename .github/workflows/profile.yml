@@ -29,13 +29,7 @@ jobs:
           username: shaghaghi29
           theme: dracula
           file: trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}
-
-      - name: Move trophy into dist
-        run: |
-          sudo mkdir -p dist
-          sudo chmod -R a+rwX dist
-          mv trophy.svg dist/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}g
 
       - name: Move trophy into dist
         run: |
