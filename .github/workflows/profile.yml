@@ -29,7 +29,7 @@ jobs:
           username: shaghaghidev
           theme: dracula
           file: trophy.svg
-          token: ${{ secrets.TROPHY_TOKEN }}g
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Move trophy into dist
         run: |
