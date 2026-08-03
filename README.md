@@ -6,14 +6,14 @@
 
 <br><br>
 
-<a href="https://github.com/shaghaghi29"><img src="https://img.shields.io/badge/GitHub-@shaghaghi29-0d1117?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=0d1117"/></a>
+<a href="https://github.com/shaghaghidev"><img src="https://img.shields.io/badge/GitHub-@shaghaghidev-0d1117?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=0d1117"/></a>
 <img src="https://img.shields.io/badge/Status-Building-0d1117?style=for-the-badge&logo=rocket&logoColor=f8f8f2&labelColor=0d1117"/>
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/shaghaghi29/shaghaghi29/output/snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/shaghaghidev/shaghaghidev/output/snake.svg" width="100%">
 
 ---
 
@@ -64,7 +64,7 @@ Production-grade async Telegram bot with a pluggable multi-provider AI chat (Gem
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Async-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/>
 
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghi29/AbolfazlMind_Bot)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghidev/AbolfazlMind_Bot)
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +74,7 @@ Read-only self-audit tool for Telegram — privacy score, active-session check, 
 
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Security-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/>
 
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghi29/telegram-privacy-checker)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghidev/telegram-privacy-checker)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Inventory engine in C++ built for a Fundamentals of Programming course — array
 
 <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Data_Structures-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/> <img src="https://img.shields.io/badge/CLI-0d1117?style=flat-square&logoColor=bd93f9&labelColor=0d1117"/>
 
-[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghi29/store-management-cpp)
+[![Repository](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=f8f8f2&labelColor=0d1117)](https://github.com/shaghaghidev/store-management-cpp)
 
 </td>
 <td width="50%" valign="top">
@@ -144,12 +144,12 @@ New automation tools and AI-backed utilities, in progress.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=shaghaghi29&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2" height="175"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shaghaghi29&layout=compact&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api?username=shaghaghidev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=bd93f9&text_color=f8f8f2" height="175"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shaghaghidev&layout=compact&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=shaghaghi29&hide_border=true&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=f8f8f2" width="72%"/>
+<img src="https://streak-stats.demolab.com?user=shaghaghidev&hide_border=true&background=0d1117&stroke=bd93f9&ring=bd93f9&fire=bd93f9&currStreakLabel=f8f8f2" width="72%"/>
 
 </div>
 
@@ -159,8 +159,9 @@ New automation tools and AI-backed utilities, in progress.
 
 <div align="center">
 
-<a href="https://github.com/shaghaghi29"><img src="https://img.shields.io/badge/GitHub-@shaghaghi29-0d1117?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=0d1117"/></a>
-<a href="https://instagram.com/shaghaghipv"><img src="https://img.shields.io/badge/Instagram-@shaghaghipv-0d1117?style=for-the-badge&logo=instagram&logoColor=bd93f9&labelColor=0d1117"/></a>
+<a href="https://github.com/shaghaghidev"><img src="https://img.shields.io/badge/GitHub-@shaghaghidev-0d1117?style=for-the-badge&logo=github&logoColor=bd93f9&labelColor=0d1117"/></a>
+<a href="https://shaghaghidev.ir"><img src="https://img.shields.io/badge/Website-shaghaghidev.ir-0d1117?style=for-the-badge&logo=googlechrome&logoColor=bd93f9&labelColor=0d1117"/></a>
+<a href="mailto:artashaghaghi@gmail.com"><img src="https://img.shields.io/badge/Email-artashaghaghi@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=bd93f9&labelColor=0d1117"/></a>
 
 <br><br>
 
@@ -173,7 +174,7 @@ New automation tools and AI-backed utilities, in progress.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:0d1117&height=120&section=footer" width="100%">
 
 <div align="center">
-<sub>@shaghaghi29 · building tools, not noise</sub>
+<sub>@shaghaghidev · building tools, not noise</sub>
 </div>
 
 <!--
@@ -204,7 +205,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shaghaghi29
+          github_user_name: shaghaghidev
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -220,7 +221,7 @@ jobs:
 After the first run, the "output" branch will contain snake.svg,
 which the image tag above already points to.
 
-If your GitHub username ever changes from "shaghaghi29", replace
+If your GitHub username ever changes from "shaghaghidev", replace
 every occurrence of it in this file (image URLs + links + workflow).
 ================================================================
 -->
