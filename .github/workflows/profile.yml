@@ -26,7 +26,7 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: shaghaghi29
+          username: shaghaghidev
           theme: dracula
           file: trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}g
